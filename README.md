@@ -1,10 +1,8 @@
-"# Hi I'm OccupyThroughShell and here you'll find a collection of tools and exploits I've created"
+"# Hi I'm OccupyThroughShell"
 
-"# These tools are meant for ethical use, and as such it is on the user to determine if they are using these tools/exploits accordingly"
+"# I'm interesting in all things red team but mostly exploit development and tool creation"
 
-"# Please email occupythroughshell@gmail.com for more information"
-
-
+"# I will leave a small section here to mention some tools/exploits I've created"
 
 
 Tools
